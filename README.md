@@ -1,8 +1,23 @@
-# React + Vite
+# Nike Landing Page - React & Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Nike Landing Page repository!
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Nike Landing Page is a modern and responsive web page designed to showcase Nike products and brand imagery. It is built using React for the frontend and Tailwind CSS for styling. This landing page mimics the design and layout of the official Nike website, providing users with a familiar and engaging experience.
+
+## Features
+
+- **Product Showcase:** Display featured Nike products with high-quality images, descriptions, and pricing.
+- **Brand Messaging:** Highlight Nike's brand identity, mission, and values through compelling visual elements and messaging.
+- **Interactive Elements:** Incorporate interactive components such as sliders, carousels, and hover effects to enhance user engagement.
+- **Responsive Design:** Ensure optimal viewing experience across various devices, including desktops, tablets, and mobile phones.
+- **SEO-Friendly:** Optimize the landing page for search engines by implementing best practices for meta tags, headings, and content structure.
+## Technologies Used
+
+- **Frontend:**
+- React.js
+- Tailwind CSS
+
+- **Other Tools:**
+- Git (version control)
