@@ -2,6 +2,10 @@
 
 Welcome to the Nike Landing Page repository!
 
+# Live Link
+
+https://nike-landing-page-react-js.netlify.app/
+
 ## Description
 
 The Nike Landing Page is a modern and responsive web page designed to showcase Nike products and brand imagery. It is built using React for the frontend and Tailwind CSS for styling. This landing page mimics the design and layout of the official Nike website, providing users with a familiar and engaging experience.
