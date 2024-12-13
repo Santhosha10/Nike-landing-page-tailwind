@@ -12,6 +12,7 @@ The Nike Landing Page is a modern and responsive web page designed to showcase N
 
 ## Features
 
+
 - **Product Showcase:** Display featured Nike products with high-quality images, descriptions, and pricing.
 - **Brand Messaging:** Highlight Nike's brand identity, mission, and values through compelling visual elements and messaging.
 - **Interactive Elements:** Incorporate interactive components such as sliders, carousels, and hover effects to enhance user engagement.
